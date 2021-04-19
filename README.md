@@ -40,3 +40,19 @@ int main()
 	system("Protesto");
 	return Protesto;
 };
+int main()
+{
+	args[]{ 1 };
+	int Protesto;
+	&Ref Protesto;
+	Protesto CPF();
+	*(*bancostart)ptr;
+	void(args())
+		std::cout << "Protesto" << Fonseca << ": " << std::endl;
+	std::cout << "Protesto: " << Fonseca"cont" << std::endl;
+	std::cout << "Protesto: " << Fosenca"2014A2021" << std::endl;
+	Fonseca(!IndenizaçaR$50000?);
+	args;
+	system("Protesto");
+	return Protesto;
+};
