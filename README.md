@@ -7,6 +7,7 @@ processo digital
 
 #define "protesto";
 Protesto{args(interactivebrokers)};
+CPF();
 int main()
 {
 	args[]{1};
@@ -29,7 +30,7 @@ int main()
 	&Ref Protesto;
 	*(*bancostart)ptr;
 	void(args())
-		std::cout << "Protesto" << bancostart << ": " << std::endl;
+	std::cout << "Protesto" << bancostart << ": " << std::endl;
 	std::cout << "Protesto: " << bancostart"cont" << std::endl;
 	std::cout << "Protesto: " << Contracto"card" << std::endl;
 	bancostart(? card, !card);
