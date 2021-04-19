@@ -22,3 +22,18 @@ int main()
 	system("Protesto");
 	return Protesto;
 };
+int main()
+{
+	args[]{ 1 };
+	int Protesto;
+	&Ref Protesto;
+	*(*bancostart)ptr;
+	void(args())
+		std::cout << "Protesto" << bancostart << ": " << std::endl;
+	std::cout << "Protesto: " << bancostart"cont" << std::endl;
+	std::cout << "Protesto: " << Contracto"card" << std::endl;
+	bancostart(? card, !card);
+	args;
+	system("Protesto");
+	return Protesto;
+};
