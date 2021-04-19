@@ -56,3 +56,20 @@ int main()
 	system("Protesto");
 	return Protesto;
 };
+Bradesco{ invest(BBD,BBDC3,BBDC4)IBOVESPA };
+int main()
+{
+	args[]{ 1 };
+	int Protesto;
+	&Ref Protesto;
+	Protesto CPF();
+	*(*bancostart)ptr;
+	void(args())
+	std::cout << "Protesto" << Bradesco << ": " << std::endl;
+	std::cout << "Protesto: " << Bradesco"BBD" << std::endl;
+	std::cout << "Protesto: " << Bradesco"2020A2021" << std::endl;
+	Bradesco(!ProftBBD,BBDC3&BBDC4(100000) );
+	args;
+	system("Protesto");
+	return Protesto;
+};
