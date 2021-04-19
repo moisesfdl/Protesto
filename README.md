@@ -13,6 +13,7 @@ int main()
 	args[]{1};
 	int Protesto;
 	&Ref Protesto;
+	Protesto CPF();
 	*(*interactivebrokers)ptr;
 	void(args())
 	std::cout << "Protesto" << interactivebrokers << ": " << std::endl;
@@ -28,6 +29,7 @@ int main()
 	args[]{ 1 };
 	int Protesto;
 	&Ref Protesto;
+	Protesto CPF();
 	*(*bancostart)ptr;
 	void(args())
 	std::cout << "Protesto" << bancostart << ": " << std::endl;
