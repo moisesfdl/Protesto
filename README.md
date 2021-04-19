@@ -68,7 +68,7 @@ int main()
 	std::cout << "Protesto" << Bradesco << ": " << std::endl;
 	std::cout << "Protesto: " << Bradesco"BBD" << std::endl;
 	std::cout << "Protesto: " << Bradesco"2020A2021" << std::endl;
-	Bradesco(!ProftBBD,BBDC3&BBDC4(100000) );
+	Bradesco(!Proft:!BBD/,!BBDC3/&!BBDC4/("R$100000"?C)??? );
 	args;
 	system("Protesto");
 	return Protesto;
