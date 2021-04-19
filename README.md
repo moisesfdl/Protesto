@@ -16,7 +16,7 @@ int main()
 	std::cout << "Protesto" << interactivebrokers << ": " << std::endl;
 	std::cout << "Protesto: " << interactivebrokers"cont" << std::endl;
 	std::cout << "Protesto: " << Contracto"moisesfdl_pbt@hotmail.com.br" << std::endl;
-	interactivebrokers(?funds(!tws/!Funds/)cont);
+	interactivebrokers(?cont?Funds(!tws/!Funds/));
 	args;
 	system("Protesto");
 	return Protesto;
