@@ -24,7 +24,7 @@ int main()
 	interactivebrokers(?cont?Funds(!tws/!Funds/));
 	args;
 	system("Protesto");
-	return Protesto;
+	return protesto("processo digital on line");
 };
 int main()
 {
@@ -49,7 +49,7 @@ int main()
 	int Protesto;
 	&Ref Protesto;
 	Protesto CPF();
-	*(*bancostart)ptr;
+	*(*Fonseca)ptr;
 	void(args());
 		std::cout << "Protesto" << Fonseca << ": " << std::endl;
 	std::cout << "Protesto: " << Fonseca"cont" << std::endl;
@@ -58,7 +58,7 @@ int main()
 	Fonseca(!IndenizaçaR$50000?);
 	args;
 	system("Protesto");
-	return Protesto;
+	return protesto("processo digital on line");
 };
 Bradesco{ invest(BBD,BBDC3,BBDC4)IBOVESPA };
 int main()
@@ -67,7 +67,7 @@ int main()
 	int Protesto;
 	&Ref Protesto;
 	Protesto CPF();
-	*(*bancostart)ptr;
+	*(*Bradesco)ptr;
 	void(args());
 	std::cout << "Protesto" << Bradesco << ": " << std::endl;
 	std::cout << "Protesto: " << Bradesco"BBD" << std::endl;
@@ -76,7 +76,7 @@ int main()
 	Bradesco(!Proft:!BBD/,!BBDC3/&!BBDC4/("R$100000"?C)??? );
 	args;
 	system("Protesto");
-	return Protesto;
+	return protesto("processo digital on line");
 };
 
 
