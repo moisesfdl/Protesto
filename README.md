@@ -8,6 +8,7 @@ processo digital
 #define "protesto";
 Protesto{ args(interactivebrokers),args(bancostart) };
 CPF();
+protesto{ arg == (argumento) };
 int main()
 {
 	args[]{1};
@@ -19,6 +20,7 @@ int main()
 	std::cout << "Protesto" << interactivebrokers << ": " << std::endl;
 	std::cout << "Protesto: " << interactivebrokers"cont" << std::endl;
 	std::cout << "Protesto: " << Contracto"moisesfdl_pbt@hotmail.com.br" << std::endl;
+	std::printf >> interactivebrokers{ args };
 	interactivebrokers(?cont?Funds(!tws/!Funds/));
 	args;
 	system("Protesto");
@@ -35,6 +37,7 @@ int main()
 	std::cout << "Protesto" << bancostart << ": " << std::endl;
 	std::cout << "Protesto: " << bancostart"cont" << std::endl;
 	std::cout << "Protesto: " << Contracto"card" << std::endl;
+	std::printf >> bancostart{ args };
 	bancostart(? card, !card);
 	args;
 	system("Protesto");
@@ -51,6 +54,7 @@ int main()
 		std::cout << "Protesto" << Fonseca << ": " << std::endl;
 	std::cout << "Protesto: " << Fonseca"cont" << std::endl;
 	std::cout << "Protesto: " << Fosenca"2014A2021" << std::endl;
+	std::printf >> Fonseca{ args };
 	Fonseca(!IndenizaçaR$50000?);
 	args;
 	system("Protesto");
@@ -68,6 +72,7 @@ int main()
 	std::cout << "Protesto" << Bradesco << ": " << std::endl;
 	std::cout << "Protesto: " << Bradesco"BBD" << std::endl;
 	std::cout << "Protesto: " << Bradesco"2020A2021" << std::endl;
+	std::printf >>  Bradesco{ args };
 	Bradesco(!Proft:!BBD/,!BBDC3/&!BBDC4/("R$100000"?C)??? );
 	args;
 	system("Protesto");
