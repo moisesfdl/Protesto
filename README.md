@@ -171,3 +171,14 @@ args.h
 #define args;
 
 args{ argumento:doc(text) };
+
+
+-------------------------
+
+args:
+
+argumento:
+Eu moises ferreira de lima , rg 27.950.938-8 , titular do CPF:275.551.158-32
+venho com esta , reclamar e protestar sobre ofertas que nao foram resperitado o direito do consumidor e por ma conduta, falta de comunicaçao nao tive exito em concluir meus anseios dentro do que as empresas vem oferencendo e prometendo pra cliente , no meu caso , eu busquei resposta e nao tive . E  persebi que terceiros estao sendo mas respeitado do que eu sendo o titular do beneficio ,. E protesto , e peço abertura na conjuctura digital on line , protesto e processo digital , pedindo indenizaçao por danos morais e materiais , por ofertar e nao cumprir com suas obrigaçoes dentro da diretriz , quando a oferta me foi ofertado , eu nao pergutei nada pra terceiros , e voces estao deixando terceiros e financiando terceiros a fazer ruido e mal gosto da minha pessoa . 
+
+valor da indenizaçao esta editada no protesto/Valor(); 
