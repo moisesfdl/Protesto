@@ -15,7 +15,7 @@ int main()
 	&Ref Protesto;
 	Protesto CPF();
 	*(*interactivebrokers)ptr;
-	void(args())
+	void(args());
 	std::cout << "Protesto" << interactivebrokers << ": " << std::endl;
 	std::cout << "Protesto: " << interactivebrokers"cont" << std::endl;
 	std::cout << "Protesto: " << Contracto"moisesfdl_pbt@hotmail.com.br" << std::endl;
@@ -31,7 +31,7 @@ int main()
 	&Ref Protesto;
 	Protesto CPF();
 	*(*bancostart)ptr;
-	void(args())
+	void(args());
 	std::cout << "Protesto" << bancostart << ": " << std::endl;
 	std::cout << "Protesto: " << bancostart"cont" << std::endl;
 	std::cout << "Protesto: " << Contracto"card" << std::endl;
@@ -47,7 +47,7 @@ int main()
 	&Ref Protesto;
 	Protesto CPF();
 	*(*bancostart)ptr;
-	void(args())
+	void(args());
 		std::cout << "Protesto" << Fonseca << ": " << std::endl;
 	std::cout << "Protesto: " << Fonseca"cont" << std::endl;
 	std::cout << "Protesto: " << Fosenca"2014A2021" << std::endl;
@@ -64,7 +64,7 @@ int main()
 	&Ref Protesto;
 	Protesto CPF();
 	*(*bancostart)ptr;
-	void(args())
+	void(args());
 	std::cout << "Protesto" << Bradesco << ": " << std::endl;
 	std::cout << "Protesto: " << Bradesco"BBD" << std::endl;
 	std::cout << "Protesto: " << Bradesco"2020A2021" << std::endl;
