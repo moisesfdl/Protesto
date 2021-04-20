@@ -6,7 +6,7 @@ processo digital
 #include <assert.h>
 
 #define "protesto";
-Protesto{args(interactivebrokers)};
+Protesto{ args(interactivebrokers),args(bancostart) };
 CPF();
 int main()
 {
