@@ -78,3 +78,16 @@ int main()
 	system("Protesto");
 	return Protesto;
 };
+
+
+prototipo
+args.h
+
+#include <iostream>
+#include <doc.h>
+#include <assert.h>
+#include "Protesto"
+
+#define args;
+
+args{ argumento:doc(text) };
